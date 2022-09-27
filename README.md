@@ -6,4 +6,4 @@ Paint can enable ‘painting’ by dragging the mouse and using different types 
 Features included in paint are pencil, brush. Also included are an eraser, magnifier, and fill colour tools.
 
 See Demonstration 👉👉
-https://www.youtube.com/embed/-_3G43xvg5Y
+[https://www.youtube.com/embed/-_3G43xvg5Y](https://youtu.be/-_3G43xvg5Y)
