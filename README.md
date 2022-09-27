@@ -7,3 +7,8 @@ Features included in paint are pencil, brush. Also included are an eraser, magni
 
 See Demonstration 👉👉
 [https://www.youtube.com/embed/-_3G43xvg5Y](https://youtu.be/-_3G43xvg5Y)
+
+See Explanation of code 👉👉
+https://codingbuddy0415.blogspot.com/2022/09/paint-app-using-html-css-js.html
+
+
